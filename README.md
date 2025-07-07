@@ -12,14 +12,11 @@ A simple yet powerful weather application built using **React**. This app allows
 
 ## ✨ Features
 
-- 🌡️ Real-time temperature, humidity, and wind speed
+- 🌡️ Real-time temperature, humidity
 - 🔍 Search by city name
 - 📍 Location-based weather updates
 - 📅 7-day forecast
-- 🎨 Dynamic background based on weather
-- 📱 Fully responsive on mobile and desktop
 
----
 
 ## 🧰 Tech Stack
 
