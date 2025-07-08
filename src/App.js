@@ -15,7 +15,7 @@ function App() {
       </div>
       {/* Footer */}
       <footer className="footer">
-        This project is proudly deployed by <b>Yash Pratap Rai</b>.
+        This project is proudly deployed by <b>Yash Pratap Rai.</b>
       </footer>
     </>
   );
