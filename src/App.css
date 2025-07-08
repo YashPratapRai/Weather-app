@@ -63,7 +63,17 @@ body {
   color: #2d3a4b;
   letter-spacing: 1px;
 }
-
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 1.5rem 0 1rem 0;
+  font-size: 1rem;
+  color: #2d3a4b;
+  background: transparent;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin-top: 0.5vh;
+}
 .table-custom {
   text-align: center;
 }
